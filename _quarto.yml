@@ -54,39 +54,6 @@ website:
         href: https://github.com/Th0masLavigne
       - text: "{{< iconify ion:flame-sharp >}}"
         href: https://th0maslavigne.github.io/FEniCSx_GMSH_tutorials/README.html
-  # navbar:
-  #   background: primary
-  #   search: true
-  #   right:
-  #     - text: "Home"
-  #       href: index.qmd
-  #     - sidebar:tutorials
-  #     - sidebar:howto
-  #     - sidebar:fundamentals
-  #     - sidebar:reference
-  # sidebar:
-  #   - id: tutorials
-  #     title: "Tutorials"
-  #     style: "docked"
-  #     background: light
-  #     collapse-level: 2
-  #     contents: 
-  #       # navigation items
-        
-  #   - id: howto
-  #     title: "How-To"
-  #     contents:
-  #       # navigation items
-        
-  #   - id: fundamentals
-  #     title: "Fundamentals"
-  #     contents:
-  #       # navigation items
-        
-  #   - id: reference
-  #     title: "Reference"
-  #     contents: 
-  #       # navigation items
   page-footer: 
     right: |
       <ul style="list-style-type: none; padding: 0; margin: 0;">
