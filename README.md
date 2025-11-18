@@ -34,6 +34,7 @@ quarto preview
 # si final
 quarto render
 quarto publish gh-pages
+quarto render presentation.qmd --to revealjs
 ```
 
 
