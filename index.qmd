@@ -1,6 +1,6 @@
 ---
 title: Thomas Lavigne
-image: Resources/images/profile_pic2.jpg
+image: Resources/images/profile_pic2.jpeg
 bibliography: Resources/biblio/biblio_web.bib
 toc: false
 about:
@@ -150,7 +150,7 @@ You can learn more about my background in my <a href="Resources/documents/CV.pdf
 </div>
 
 <div class="carousel-slide">
-  <img src="Resources/images/profile_pic.jpeg" alt="bridge">
+  <img src="Resources/images/profile_pic.jpg" alt="bridge">
   <div class="carousel-titlecaption"><b></b> <br> 
   <span style="font-size: smaller;font-weight: 300"></span></div>
 </div>
