@@ -6,19 +6,19 @@
       version="2.0">
 <channel>
 <title>Thomas Lavigne</title>
-<link>https://ThomasLavigne.github.io/News.html</link>
-<atom:link href="https://ThomasLavigne.github.io/News.xml" rel="self" type="application/rss+xml"/>
-<description>Thomas Lavigne, PHD, personal webpage</description>
+<link>https://th0maslavigne.github.io/News.html</link>
+<atom:link href="https://th0maslavigne.github.io/News.xml" rel="self" type="application/rss+xml"/>
+<description>Thomas Lavigne, PhD, personal webpage, biomechanics, CV, Bordeaux, Paris, I2M, LMS, ENS, Ecole normale supérieure Paris-Saclay, ENSAM, IBHGC, website, github, links, th0maslavigne, th0mas lavigne, th0mas, lavigne, research, doctoral, post-doctoral, Université du Luxembourg, Luxembourg, Legato, Team, Polytechnique</description>
 <image>
-<url>https://ThomasLavigne.github.io/Resources/images/profile_pic2.jpeg</url>
+<url>https://th0maslavigne.github.io/Resources/images/profile_pic2.jpeg</url>
 <title>Thomas Lavigne</title>
-<link>https://ThomasLavigne.github.io/News.html</link>
+<link>https://th0maslavigne.github.io/News.html</link>
 </image>
 <generator>quarto-1.8.26</generator>
 <lastBuildDate>Tue, 24 Jun 2025 00:00:00 GMT</lastBuildDate>
 <item>
   <title>PhD Defense</title>
-  <link>https://ThomasLavigne.github.io/posts/2025/2025-24-06-PhD/</link>
+  <link>https://th0maslavigne.github.io/posts/2025/2025-24-06-PhD/</link>
   <description><![CDATA[ 
 
 
@@ -37,7 +37,7 @@
 <p>#Biomechanics #PorousMedia #SoftTissues #Microcirculation #CotutellePhD</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://ThomasLavigne.github.io/posts/2025/2025-24-06-PhD/defense3.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:75.0%"></p>
+<p><img src="https://th0maslavigne.github.io/posts/2025/2025-24-06-PhD/defense3.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:75.0%"></p>
 </figure>
 </div>
 
@@ -45,13 +45,13 @@
 
 <a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
   <category>News</category>
-  <guid>https://ThomasLavigne.github.io/posts/2025/2025-24-06-PhD/</guid>
+  <guid>https://th0maslavigne.github.io/posts/2025/2025-24-06-PhD/</guid>
   <pubDate>Tue, 24 Jun 2025 00:00:00 GMT</pubDate>
-  <media:content url="https://ThomasLavigne.github.io/posts/2025/2025-24-06-PhD/defense3.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://th0maslavigne.github.io/posts/2025/2025-24-06-PhD/defense3.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Visiting Brainiacs laboratory at FAU</title>
-  <link>https://ThomasLavigne.github.io/posts/2024/2024-12-12-Erlangen/</link>
+  <link>https://th0maslavigne.github.io/posts/2024/2024-12-12-Erlangen/</link>
   <description><![CDATA[ 
 
 
@@ -62,19 +62,19 @@
 <p>We’re excited about the possibility of reconducting this initiative in the future!</p>
 <div class="carousel">
 <div class="carousel-slide">
-<img src="https://ThomasLavigne.github.io/posts/2024/2024-12-12-Erlangen/furth.jpeg" alt="PhD">
+<img src="https://th0maslavigne.github.io/posts/2024/2024-12-12-Erlangen/furth.jpeg" alt="PhD">
 <div class="carousel-titlecaption">
 <b></b> <br> <span style="font-size: smaller;font-weight: 300"></span>
 </div>
 </div>
 <div class="carousel-slide">
-<img src="https://ThomasLavigne.github.io/posts/2024/2024-12-12-Erlangen/Erlangen.jpeg" alt="PhD">
+<img src="https://th0maslavigne.github.io/posts/2024/2024-12-12-Erlangen/Erlangen.jpeg" alt="PhD">
 <div class="carousel-titlecaption">
 <b></b> <br> <span style="font-size: smaller;font-weight: 300"></span>
 </div>
 </div>
 <div class="carousel-slide">
-<img src="https://ThomasLavigne.github.io/posts/2024/2024-12-12-Erlangen/nuremberg.jpeg" alt="PhD">
+<img src="https://th0maslavigne.github.io/posts/2024/2024-12-12-Erlangen/nuremberg.jpeg" alt="PhD">
 <div class="carousel-titlecaption">
 <b></b> <br> <span style="font-size: smaller;font-weight: 300"></span>
 </div>
@@ -134,13 +134,13 @@
 
 <a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
   <category>News</category>
-  <guid>https://ThomasLavigne.github.io/posts/2024/2024-12-12-Erlangen/</guid>
+  <guid>https://th0maslavigne.github.io/posts/2024/2024-12-12-Erlangen/</guid>
   <pubDate>Thu, 12 Dec 2024 00:00:00 GMT</pubDate>
-  <media:content url="https://ThomasLavigne.github.io/posts/2024/2024-12-12-Erlangen/furth.jpeg" medium="image" type="image/jpeg"/>
+  <media:content url="https://th0maslavigne.github.io/posts/2024/2024-12-12-Erlangen/furth.jpeg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>FEniCSx-Gmsh Training-Symposium</title>
-  <link>https://ThomasLavigne.github.io/posts/2024/2024-09-10-FEniCSx/</link>
+  <link>https://th0maslavigne.github.io/posts/2024/2024-09-10-FEniCSx/</link>
   <description><![CDATA[ 
 
 
@@ -152,7 +152,7 @@
 <p>We’re excited about the possibility of reconducting this initiative in the future!” <a href="https://www.bdx-poromechanics.com/">here</a></p>
 <div class="carousel">
 <div class="carousel-slide">
-<img src="https://ThomasLavigne.github.io/posts/2024/2024-09-10-FEniCSx/Simposium.jpg" alt="PhD">
+<img src="https://th0maslavigne.github.io/posts/2024/2024-09-10-FEniCSx/Simposium.jpg" alt="PhD">
 <div class="carousel-titlecaption">
 <b></b> <br> <span style="font-size: smaller;font-weight: 300"></span>
 </div>
@@ -212,13 +212,13 @@
 
 <a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
   <category>News</category>
-  <guid>https://ThomasLavigne.github.io/posts/2024/2024-09-10-FEniCSx/</guid>
+  <guid>https://th0maslavigne.github.io/posts/2024/2024-09-10-FEniCSx/</guid>
   <pubDate>Tue, 10 Sep 2024 00:00:00 GMT</pubDate>
-  <media:content url="https://ThomasLavigne.github.io/posts/2024/2024-09-10-FEniCSx/Simposium.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://th0maslavigne.github.io/posts/2024/2024-09-10-FEniCSx/Simposium.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Prix Most cited paper : 2 normaliens du DER-Génie Mécanique à l’honneur</title>
-  <link>https://ThomasLavigne.github.io/posts/2024/2024-02-06-Most_Cited/</link>
+  <link>https://th0maslavigne.github.io/posts/2024/2024-02-06-Most_Cited/</link>
   <description><![CDATA[ 
 
 
@@ -228,7 +228,7 @@
 <p>“Rédigé en 2020 par deux normaliens Patrick AUGER et Thomas LAVIGNE, avec la participation de Mario SPAGNUILO et Francesco DELL’ISOLA et sous la direction de François HILD et Benjamin SMANIOTTO, l’article”Poynting Effects in Pantographic Metamaterials Captured via Multiscale DVC” a été distingué par le prix “Most cited Paper” dans la revue Journal of Strain Analysis for Engineering Design.” <a href="https://ens-paris-saclay.fr/actualite/prix-most-cited-paper-2-normaliens-du-der-genie-mecanique-lhonneur">here</a></p>
 <div class="carousel">
 <div class="carousel-slide">
-<img src="https://ThomasLavigne.github.io/posts/2024/2024-02-06-Most_Cited/2024_01_Most-cited-paper.jpg" alt="PhD">
+<img src="https://th0maslavigne.github.io/posts/2024/2024-02-06-Most_Cited/2024_01_Most-cited-paper.jpg" alt="PhD">
 <div class="carousel-titlecaption">
 <b></b> <br> <span style="font-size: smaller;font-weight: 300"></span>
 </div>
@@ -288,9 +288,9 @@
 
 <a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
   <category>News</category>
-  <guid>https://ThomasLavigne.github.io/posts/2024/2024-02-06-Most_Cited/</guid>
+  <guid>https://th0maslavigne.github.io/posts/2024/2024-02-06-Most_Cited/</guid>
   <pubDate>Tue, 06 Feb 2024 00:00:00 GMT</pubDate>
-  <media:content url="https://ThomasLavigne.github.io/posts/2024/2024-02-06-Most_Cited/2024_01_Most-cited-paper.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://th0maslavigne.github.io/posts/2024/2024-02-06-Most_Cited/2024_01_Most-cited-paper.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
